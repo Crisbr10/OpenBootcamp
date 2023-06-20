@@ -1,1 +1,1 @@
-Inicio del curso de Git de OpenBootcamp
+Inicio del curso de Git
